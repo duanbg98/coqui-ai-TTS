@@ -1,5 +1,6 @@
 # <img src="https://raw.githubusercontent.com/idiap/coqui-ai-TTS/main/images/coqui-log-green-TTS.png" height="56"/>
 
+Hello!
 
 **🐸 Coqui TTS is a library for advanced Text-to-Speech generation.**
 
